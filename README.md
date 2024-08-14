@@ -123,13 +123,26 @@
 </p>
 
 ## <br>
+<hr>
+<h3 align="left">🔥 My Stats :</h3>
+
+<div align="start">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Nadyy&show_icons=true&locale=en&layout=compact" alt="Nady" />
+</div>
+
 
 ## 🐍 A Snake Eating My Contributions Graph
 
-<p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed_Nadyy/Ahmed_Nadyy/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed_Nadyy/Ahmed_Nadyy/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahmed_Nadyy/Ahmed_Nadyy/output/github-contribution-grid-snake.svg">
-	</picture>
-</p>
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
+    <p align="center" dir="auto">
+        <themed-picture data-catalyst-inline="true" data-catalyst="">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-Nadyy/Ahmed-Nadyy/output/github-contribution-grid-snake-dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-Nadyy/Ahmed-Nadyy/output/github-contribution-grid-snake.svg">
+                <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahmed-Nadyy/Ahmed-Nadyy/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+            </picture>
+        </themed-picture>
+    </p>
+</article>
+
+
