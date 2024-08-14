@@ -131,7 +131,7 @@
 </div>
 
 
-## 🐍 A Snake Eating My Contributions Graph
+<!-- ## 🐍 A Snake Eating My Contributions Graph
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <p align="center" dir="auto">
@@ -143,6 +143,6 @@
             </picture>
         </themed-picture>
     </p>
-</article>
+</article> -->
 
 
