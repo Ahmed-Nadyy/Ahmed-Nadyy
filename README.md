@@ -73,9 +73,13 @@
 ## <br>
 
 <h3 align="left">🔥 My Stats :</h3>
-
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Nadyy&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Nadyy&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Nadyy&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Nadyy&style=for-the-badge&color=black" alt=""/>
 </div>
 
 
