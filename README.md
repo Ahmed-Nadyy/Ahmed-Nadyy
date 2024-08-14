@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmed-Nadyy&title=Stars,Followers,Commits,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmed-Nadyy&title=Followers,Commits,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 <h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=24&pause=1000&random=false&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Nady++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB." alt="Typing SVG" />
