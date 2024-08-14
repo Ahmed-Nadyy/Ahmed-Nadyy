@@ -21,7 +21,7 @@
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
 
-<div align="center" width=100%>
+<div align="start" width=100%>
   <a href="https://codeforces.com/profile/Ahmed_Nady_"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
 	  &emsp; 
 	<!-- <a href=""><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
@@ -31,7 +31,7 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me & Social Media
 
-<p align="center">
+<p align="start">
 	<a href="mailto:Nadyahmd88@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Ahmed-Nadyy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/0201023536355"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
@@ -45,7 +45,7 @@
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
 
-<p align="center"> 
+<p align="start"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
@@ -70,7 +70,7 @@
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%> Frontend & Backend Development
 
-<p align="center"> 
+<p align="start"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -95,7 +95,7 @@
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Software & Tools
 
-<p align="center">
+<p align="start">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
@@ -114,7 +114,7 @@
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
  
-<p align="center">
+<p align="start">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
@@ -124,7 +124,7 @@
 
 ## <br>
 
-<!-- ## 🐍 A Snake Eating My Contributions Graph
+## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
 	<picture>
@@ -132,4 +132,4 @@
 		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed_Nadyy/Ahmed_Nadyy/output/github-contribution-grid-snake.svg">
 		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahmed_Nadyy/Ahmed_Nadyy/output/github-contribution-grid-snake.svg">
 	</picture>
-</p> -->
+</p>
