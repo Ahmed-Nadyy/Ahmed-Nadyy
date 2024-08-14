@@ -9,21 +9,19 @@
 
 
 - :school: I am a `Student` in [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) at [ٍSouth Valley University](https://www.svu.edu.eg/ar/).
-<!-- - :trophy: 
-- :trophy:  -->
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-  <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume). -->
-  <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+  <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Nadyy_Resume). -->
+  <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Nadyy_Website).
     <br> -->
 
 ## My Competitive Programming Profiles
 <!-- ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles -->
 | codeforces |
 |----------|
-|<a href="https://codeforces.com/profile/Ahmed_Nady_"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=100%/></a>|
+|<a href="https://codeforces.com/profile/Ahmed_Nady_"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=90%/></a>|
 
 
 ## Connect with me & Social Media
@@ -38,94 +36,46 @@
 ### Programming languages
 <!-- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages -->
 
-<p align="start"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://dart.dev/" target="_blank"> 
-    <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
+| C | C++ | JavaScript | Dart | Python |
+|----------|----------|----------|----------|----------|
+|<a href="https://www.cprogramming.com/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white"></a>|<a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a>| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>|<a href="https://dart.dev/" target="_blank"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>|<a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>|
+
 
 ### Frontend & Backend Development
 <!-- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%> Frontend & Backend Development -->
 
-<p align="start"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/React.JS-%2361DAFB.svg?style=plastic&amp;logo=React&amp;logoColor=black"></a>
-    &emsp;
-    <a href="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-      &emsp;
-    <a ><img src="https://img.shields.io/badge/BootStrap%20-%23563D7C.svg?&style=plastic&logo=bootstrap&logoColor=white"/></a>
-     &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
+| HTML5 | CSS3 | React.JS | Node.js | BootStrap | JavaScript |
+|----------|----------|----------|----------|----------|----------|
+|<a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>|<a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>|<a href="#"><img src="https://img.shields.io/badge/React.JS-%2361DAFB.svg?style=plastic&amp;logo=React&amp;logoColor=black"></a>|<a href="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black"></a>|<a ><img src="https://img.shields.io/badge/BootStrap%20-%23563D7C.svg?&style=plastic&logo=bootstrap&logoColor=white"/></a>|<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>|
+
 
 ### Software & Tools
 
 <!-- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Software & Tools -->
+| Git | github | GoogleSheets | Stack Overflow | geeksforgeeks | mysql |
+|----------|----------|----------|----------|----------|----------|
+|<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>|<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>|<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>|<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>|<a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>|<a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>|
 
-<p align="start">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <!-- <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
-    &emsp; -->
-    <!-- <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a> -->
-</p>
+<!-- <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a> -->
+
 
  ### Operating Systems
- 
-  <!-- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
+   <!-- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
   -->
-<p align="start">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-</p>
+
+| Git | github |
+|----------|----------|
+|<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>|<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>|
+
+
+
 
 ## <br>
 
 <h3 align="left">🔥 My Stats :</h3>
 
-<div align="start">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Nadyy&show_icons=true&locale=en&layout=compact" alt="Nady" />
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Nadyy&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 
