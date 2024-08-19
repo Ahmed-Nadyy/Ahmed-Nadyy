@@ -11,7 +11,7 @@
 - :school: I am a `Student` in [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) at [ٍSouth Valley University](https://www.svu.edu.eg/ar/).
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Computer Science` & `Software Engineering`.
 - :nerd_face: Always `learning new things`.
   <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Nadyy_Resume). -->
   <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Nadyy_Website).
