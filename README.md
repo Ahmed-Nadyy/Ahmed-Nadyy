@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nady</h1>
 <h3 align="center">A passionate full-stack developer ( using MERN ) from Egypt</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-nadyy" alt="ahmed-nadyy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-nadyy&theme=onedark" alt="ahmed-nadyy" /></a> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ahmed-Nadyy&title=Followers,Commits,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h1>
